@@ -1,4 +1,4 @@
-[Github](https://github.com/MartingaleField/MachineLearning) | [Webpage](https://martingalefield.github.io/MachineLearning/)
+[Github](https://github.com/MartingaleField/MachineLearning/tree/gh-pages) | [Webpage](https://martingalefield.github.io/MachineLearning/)
 
 <!-- Mathjax Support -->
 <script type="text/javascript" async
