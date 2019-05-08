@@ -4,8 +4,11 @@
 </script>
 
 
-[Github](https://github.com/MartingaleField/MartingaleField.github.io) | [Webpage](https://martingalefield.github.io/MachineLearning/)
+[Github](https://github.com/MartingaleField/MachineLearning) | [Webpage](https://martingalefield.github.io/MachineLearning/)
 
-$$
-a+b=c
-$$
+# Model Selection
+
+## Hold-out
+
+Partition $T$
+
