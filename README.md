@@ -12,5 +12,5 @@
 
 ## Hold-out
 
-Partition $$T$$
+Partition $$D$$ into two sets: $$S$$ and $$T$$, where $$D=S\cup T$$ and $$S\cap T = \emptyset$$. $$T$$ is used for training and $$S$$ testing.
 
