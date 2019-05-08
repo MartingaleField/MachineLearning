@@ -1,3 +1,5 @@
 title: To Become a Better Statistician
 description: Be Flexible, Not Stubborn.
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
