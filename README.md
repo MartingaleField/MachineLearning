@@ -10,5 +10,5 @@
 
 ## Hold-out
 
-Partition $T$
+Partition \(T\)
 
